@@ -1,4 +1,4 @@
-# Gmail AI Assistant
+# Local Gmail AI Assistant
 
 A Python assistant that watches your Gmail inbox, reads important emails aloud, and helps you reply using voice input or AI-generated drafts.
 
